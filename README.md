@@ -9,3 +9,4 @@ https://github.com/ckietzm2/Cody-Kietzman-Calendar-App
 
 https://ckietzm2.github.io/Cody-Kietzman-Calendar-App/
 
+![Screenshot 2023-09-28 131600](https://github.com/ckietzm2/Cody-Kietzman-Calendar-App/assets/143734933/7c50cbd1-afb6-4e1a-b995-bfe1e98ee46f)
